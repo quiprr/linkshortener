@@ -1,0 +1,48 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+footer {
+    display: none;
+}
+
+body {
+    color: #b9c0c3;
+    background-color: #111111;
+}
+
+a {
+    color: #97b3d0;
+}
+
+.btn {
+    color: #e0e0e0;
+    display: none;
+}
+
+.main-content {
+    background-color: #111111;
+}
+
+.main-content h1 {
+    color: #d06c70;
+}
+
+.main-content h2, .main-content h3 {
+    color: #dc9e9e;
+}
+
+.main-content h6 {
+    color: #de5757;
+}
+
+.main-content code {
+    color: #dadbdc;
+    background-color: #1a1a1a;
+}
+
+.page-header {
+    background-color: #991515;
+    background-image: linear-gradient(120deg, #155799, #991515);
+}

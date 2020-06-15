@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-redirect-from
+
+title: linkshortener by quiprr
+description: URL Shortener for GH Pages users
